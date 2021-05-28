@@ -7,7 +7,7 @@ import sys
 
 ##ULTIMATE FFMPEG FIX THE PRORES FROM FUCKING NUKE FINALLY FOREVER FUCK YOU FOUNDRY
 
-ffmpeg_bin="/coppi/global/bin/static-ffmpeg/ffmpeg-4.2.2-amd64-static/ffmpeg"
+ffmpeg_bin="/path/to/ffmpeg"
 
 def fix_nclc(input_file, output_file, primaries, transfer, matrix, gamma):
 
