@@ -5,7 +5,7 @@ import glob
 from pathlib import Path
 
 
-## take first argument as input file
+## take first argument as input path
 
 try:
     droppedFile = sys.argv[1]
